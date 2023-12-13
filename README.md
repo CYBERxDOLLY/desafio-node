@@ -1,6 +1,6 @@
 <h1 align=center>Desafio Node</h1>
 <hr>
-<p align=center>O objetivo é criar uma aplicação que faz, no backend, o cadastro de pedidos de uma hamburgueria fictícia, utilizando Node e Express.
+<p align=center>O objetivo é criar uma aplicação que faz o cadastro de pedidos de uma hamburgueria fictícia, utilizando Node e Express.
 <br>
 Baixe o projeto em seu ambiente de desenvolvimento e usando o terminal execute os comandos:</p>
 <p>
