@@ -1,14 +1,31 @@
 <h1 align=center>Desafio Node</h1>
 <hr>
-<p align=center>O objetivo é criar uma aplicação que faz o cadastro de pedidos de uma hamburgueria fictícia, utilizando Node e Express.
-<br>
-Baixe o projeto em seu ambiente de desenvolvimento e usando o terminal execute os comandos:</p>
-<p>
-<br>1- npm i (para instalar as dependências do projeto)
-<br>2- npm i nodemon -D (para instalar o nodemon em ambiente de desenvolvimento)
-<br>3- npm run dev (para iniciar o servidor local)
-<br>
-<br><p align=center>Utilizando o programa Insomnia, crie as rotas:</p>
+<p align=center>O objetivo é criar uma aplicação que faz o cadastro de pedidos de uma hamburgueria fictícia, utilizando:
+<br><br>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+<br><br>
+Baixe o projeto em seu ambiente de desenvolvimento e use o terminal para executar os comandos:</p>
+1- Para instalar as dependências do projeto
+  
+```bash
+npm i
+```
+
+2- Para instalar o nodemon em ambiente de desenvolvimento
+
+```bash
+npm i nodemon -D
+```
+
+3- Para iniciar o servidor local
+
+```bash
+npm run dev
+```
+
+<br><p align=center>Utilizando o programa <a href="https://insomnia.rest/download">Insomnia</a>, crie as rotas:</p>
 <br>
 <br><b>GET</b> - Para LISTAR todos pedidos criados, url: <b><i>http://localhost:3000/order</i></b>
 <br><b>POST</b> - Para CRIAR um novo pedido, url: <b><i>http://localhost:3000/order</i></b>
